@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcabin=self.webpackChunkcabin||[]).push([[678],{6558:function(e,n,t){t.r(n),t.d(n,{Head:function(){return l}});var a=t(7294);n.default=()=>a.createElement("main",null,a.createElement("h1",null,"Welcom to Liu Jintao's Cabin"));const l=()=>a.createElement("title",null,"Liu Jintao's Cabin")}}]);
+//# sourceMappingURL=component---src-pages-index-js-a03c344ebcd096714cbd.js.map
